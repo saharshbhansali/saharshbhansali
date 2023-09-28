@@ -36,7 +36,7 @@ Like My Work?
 ### My Absolute Favorites:
 
 - 💻 &nbsp; Exploring new technologies and doing certifications. 
-- 🍕 &nbsp; Taking part in CTFs and hackathons.
+- 🍕 &nbsp; Taking part in CTFs, customizing my OS, and hackathons.
 - 📰 &nbsp; Reading books, cookinng, and watching mini-documentaries.
 
 <!--
@@ -73,6 +73,6 @@ Like My Work?
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some repositories!
 
 </div>

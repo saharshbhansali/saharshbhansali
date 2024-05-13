@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Saharsh Bhansali!](https://github.com/saharshbhansali/)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharsh-bhansali-3245b5158/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharsh-bhansali/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BhansaliSaharsh)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaharshbhansali&label=Visitors&countColor=%23263759)
 
@@ -30,7 +30,7 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/saharshbhansali).
 - 👾 &nbsp; Fun fact: I am a massive bookworm and a guitarist :)
 - 📫 &nbsp; How to reach me: [Email](mailto:saharsh.bhansali15@gmail.com)
-- 📝 &nbsp; Checkout my [Resume](https://tinyurl.com/saharsh-resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/13IOiqCfIb3zLC7CsFcBlwGTNcLBaD0td/view).
 <!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.dev/resume.pdf). -->
 
 ### My Absolute Favorites:

@@ -33,15 +33,15 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/saharshbhansali).
 - 👾 &nbsp; Fun fact: I am a massive bookworm and a guitarist :)
 - 📫 &nbsp; How to reach me: [Email](mailto:saharsh.bhansali15@gmail.com)
-- 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.github.io/about-me/Resume).
+- 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.github.io/about-me/Resume.pdf). You can also view it as part of my site [here](https://saharshbhansali.github.io/about-me/Resume).
 <!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.github.io/about-me/Resume). -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.dev/resume.pdf). -->
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; Exploring new technologies and doing certifications. 
+- 💻 &nbsp; Exploring new technologies and experimenting with the latest tools in the field. 
 - 🍕 &nbsp; Taking part in CTFs, customizing my OS, and hackathons.
-- 📰 &nbsp; Reading books, cookinng, and watching mini-documentaries.
+- 📰 &nbsp; Reading books, cooking, and watching mini-documentaries.
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
